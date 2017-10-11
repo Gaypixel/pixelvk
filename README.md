@@ -1,7 +1,29 @@
-### Github Tutorial
+# PixelBot
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
+Бот дефит территорию в PixelBattle;
+map.png - задание бота;
+\#000 - не трогать клетку;
 
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
 
-Append ?raw=true to any file URL on Github to get the direct link.
+#field -> image
+#x y   -> x-1 y
+
+#fafbfc - белый
+#c5d2e0 - светло-серый
+#999999 - серый
+#434343 - темно-серый
+#222222 - черный
+#94E044 - залатовый
+#4bb34b - зеленый
+#5CBF0D - лаймовый
+#FDCB5D - бежевый
+#FFA75F - оранжевый
+#ffa000 - ярко-оранжевый
+#FF727D - бледно-розовый
+#ff3347 - красный
+#DB2735 - темно-красный
+#CD3EE7 - фиолетовый
+#A32AB9 - темно-фиолетовый
+#70B6F7 - голубой
+#488dcf - темно-синий
+#1893E1 - синий
